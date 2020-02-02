@@ -12,3 +12,14 @@ of these two ANNs.
 So we build two types of models:
 1) MLP - Uses original data
 2) CNN - uses image format (2-D array) data
+
+With 4 different architectures:
+1) MLP - Uses original data
+2) CNN - uses image format (2-D array) data
+3) Siamese MLP - Uses original data
+4) Siamese CNN - uses image format (2-D array) data
+
+More details on Siamese Netwroks can be found in the below research paper by G Koch et al. :
+Siamese Netowrks [ G. Koch, R. Zemel, and R. Salakhutdinov. Siamese neural networks for one-shot image
+recognition. In ICML deep learning workshop, volume 2, 2015. ]
+
